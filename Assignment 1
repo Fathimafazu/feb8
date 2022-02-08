@@ -1,0 +1,19 @@
+# Online Python - IDE, Editor, Compiler, Interpreter
+a=int(input ("ENTER a"))
+b=int(input ("ENTER b"))
+print (a<b)
+print (a>b)
+print (a>=b)
+print (a<=b)
+print (a==b)
+print (a!=b)
+ENTER a
+15
+ENTER b
+20
+True
+False
+False
+True
+False
+True
